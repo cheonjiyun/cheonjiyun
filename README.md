@@ -1,5 +1,9 @@
 ### Hi ♥
 
+[<img src="https://img.shields.io/badge/dev블로그-555555?style=for-the-badge&logo=tistory&logoColor=ffffff&label=Tistory&labelColor=000000"/>](https://jduenv.tistory.com/)
+
+
+
 <!--
 **cheonjiyun/cheonjiyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
