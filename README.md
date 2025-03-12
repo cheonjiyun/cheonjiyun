@@ -3,10 +3,10 @@
 ## 🌱  Side Projects
 
 - [**마피아투게더**](https://github.com/mafia-together) 2024.04 ~ 현재 (React, TypeScript) 
-  -  로그인없이 웹으로 친구와 함께 즐기는 마피아게임 [링크](https://mafia-together.com/)
+  -  로그인없이 웹으로 친구와 함께 즐기는 마피아게임
 
-- [**툰프리뷰**](https://github.com/cheonjiyun/Toonpreview) 2024.02 ~ 2024.03 (HTML,CSS)
-  - 웹툰작가를 위한 원고 모바일로 미리보기 [링크](https://toonpreview.com/)
+- [**툰프리뷰**](https://github.com/cheonjiyun/Toonpreview) 2024.02 ~ 2024.03 (HTML,CSS,JS)
+  - 웹툰작가를 위한 원고 모바일로 미리보기
 
 
 ## 💬  More
