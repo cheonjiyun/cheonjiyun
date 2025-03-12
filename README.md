@@ -2,6 +2,7 @@
 
 [<img src="https://img.shields.io/badge/dev블로그-555555?style=for-the-badge&logo=tistory&logoColor=ffffff&label=Tistory&labelColor=000000"/>](https://jduenv.tistory.com/)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunbam715)](https://solved.ac/gunbam715/)
 
 
 <!--
