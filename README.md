@@ -6,15 +6,15 @@
 
 ## 🎓 Eductaion
 
-- 2025.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삼성청년SW아카데미 13기 모바일 트랙
-- 2019.03 ~ 2024.02 &nbsp; 경기대학교 경제학부 응용통계전공, 컴퓨터공학부
+- 2025.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삼성청년SW아카데미 13기 모바일 트랙
+- 2019.03 ~ 2024.02 경기대학교 경제학부 응용통계전공, 컴퓨터공학부
 
 ## 📚  Side Projects
 
-- 2024.04 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [마피아투게더](https://github.com/mafia-together) 로그인없이 웹으로 친구와 함께 즐기는 마피아게임 (TypeScript, React)
-- 2024.06 ~ 2024.08 &nbsp; [오토 엔터뷰](https://github.com/cheonjiyun/auto-enterview-fe) &nbsp;채용공고 및 관리 플랫폼 (TypeScript, React)
-- 2024.02 ~ 2024.03 &nbsp; [툰프리뷰](https://github.com/cheonjiyun/Toonpreview) &nbsp;웹툰작가를 위한 원고 모바일로 미리보기 (HTML, CSS, JavaScript)
-- 2023.03 ~ 2023.06 &nbsp; [여기서 구해볼래](https://github.com/kgu-capstone) &nbsp;스터디 종합 관리 웹 플랫폼 (JavaScript, React)
+- 2024.04 ~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [마피아투게더](https://github.com/mafia-together) 로그인없이 웹으로 친구와 함께 즐기는 마피아게임 (TypeScript, React)
+- 2024.06 ~ 2024.08 [오토 엔터뷰](https://github.com/cheonjiyun/auto-enterview-fe) &nbsp;채용공고 및 관리 플랫폼 (TypeScript, React)
+- 2024.02 ~ 2024.03 [툰프리뷰](https://github.com/cheonjiyun/Toonpreview) &nbsp;웹툰작가를 위한 원고 모바일로 미리보기 (HTML, CSS, JavaScript)
+- 2023.03 ~ 2023.06 [여기서 구해볼래](https://github.com/kgu-capstone) &nbsp;스터디 종합 관리 웹 플랫폼 (JavaScript, React)
 
 ## 🎫 Certificates
 - 2024-09-10 정보처리기사
