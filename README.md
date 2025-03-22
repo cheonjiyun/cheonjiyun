@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunbam715)](https://solved.ac/gunbam715/)
 
 
-## 🎓 Eductaion
+## 🎓 Education
 
 - 2025.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삼성청년SW아카데미 13기 모바일 트랙
 - 2019.03 ~ 2024.02 경기대학교 경제학부 응용통계전공, 컴퓨터공학부, 산업디자인
@@ -23,8 +23,7 @@
 - 2023-06-09 사회조사분석사2급
 - 2023-03-18 CSTS 일반
 
-## 🎖️ Awards
-- 2023.06.02 대학생논문경진대회
+
 
 
 ## 💬  More
@@ -32,6 +31,11 @@
 - [LinkedIn](https://www.linkedin.com/in/cheonjiyun/)
 
 <!--
+
+## 🎖️ Awards
+- 2023.06.02 대학생논문경진대회
+
+
 [<img src="https://img.shields.io/badge/dev블로그-555555?style=for-the-badge&logo=tistory&logoColor=ffffff&label=Tistory&labelColor=000000"/>](https://jduenv.tistory.com/)
 
 
