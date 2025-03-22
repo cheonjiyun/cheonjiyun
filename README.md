@@ -7,7 +7,7 @@
 ## 🎓 Eductaion
 
 - 2025.01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삼성청년SW아카데미 13기 모바일 트랙
-- 2019.03 ~ 2024.02 경기대학교 경제학부 응용통계전공, 컴퓨터공학부
+- 2019.03 ~ 2024.02 경기대학교 경제학부 응용통계전공, 컴퓨터공학부, 산업디자인
 
 ## 📚  Side Projects
 
