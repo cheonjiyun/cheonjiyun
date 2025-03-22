@@ -24,6 +24,8 @@
 - 2023-03-18 CSTS 일반
 
 
+## 🎖️ Awards
+- 2023.06.02 대학생논문경진대회 (스터디 그룹 모집 및 관리 플랫폼)
 
 
 ## 💬  More
@@ -32,8 +34,6 @@
 
 <!--
 
-## 🎖️ Awards
-- 2023.06.02 대학생논문경진대회
 
 
 [<img src="https://img.shields.io/badge/dev블로그-555555?style=for-the-badge&logo=tistory&logoColor=ffffff&label=Tistory&labelColor=000000"/>](https://jduenv.tistory.com/)
