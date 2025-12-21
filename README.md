@@ -13,11 +13,13 @@
 #### Tools
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 
-<!--
 
 
 ### 💬  More
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gunbam715)](https://solved.ac/gunbam715/)
+
+
+<!--
 
 - [blog](https://jduenv.tistory.com/)
 - [LinkedIn](https://www.linkedin.com/in/cheonjiyun/)
