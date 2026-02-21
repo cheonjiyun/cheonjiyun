@@ -2,7 +2,7 @@
 
 
 
-## 👋 Welcome to Jiyun's Github - Android Developer
+## 👋 Welcome to Jiyun's Github
 ### 🛠 Skills
 #### Main
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/java-FF7F00?style=flat&logo=java&logoColor=white"/>
